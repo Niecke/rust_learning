@@ -1,0 +1,9 @@
+vscode:
+  extensions:
+    - "rust-lang.rust"
+
+tasks:
+  - init: |
+      echo 'TODO: build project'
+    command: |
+      echo 'TODO: start app'
